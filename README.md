@@ -1,2 +1,2 @@
-# Tokcall
-Tokcall
+# How to use
+php tokcall.php
